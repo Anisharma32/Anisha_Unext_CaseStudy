@@ -1,6 +1,9 @@
 def multiply_numbers(a, b):
     return a*b;
 
+def demo():
+    return
+    
 a = 8.5
 b = 3.2
 
